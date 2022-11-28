@@ -1,5 +1,5 @@
 ---
-name: Title
+name: ZeroFN
 tools: [Tags]
 image: https://abc.de/image-url.png
 ---
