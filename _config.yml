@@ -17,12 +17,14 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/blog.html
+  - pages/docs.html
 
 
 ### Author Info ###
 author:
   name              : TFN and Pokelevel
-  image             : https://cdn.discordapp.com/icons/1044931830098448385/52cbfd49e641d8c0873159730c71d3e7.webp?size=100
+  image             : https://media.discordapp.net/attachments/1037142044260450324/1045723375869378590/chrome_DfFFOcEbKx.png?width=507&height=508
 
 
 ### Posts ###
@@ -80,4 +82,5 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE
+  - layout.md
   - "*.log"
