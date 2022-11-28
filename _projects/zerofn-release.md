@@ -44,7 +44,7 @@ Here is the full list of current carbon/zerofn commands
 - dumbps - Dumps a list of all Blueprints. (can be found in the FortnitePath/Win64 Folder)
 - fly - Toggles Fly On/Off (Doesn't work if the player is swimming)
 - enablecheats - Enables CheatManager
-- summon** - Summons a blueprint Class 
+- summon - Summons a blueprint Class 
 
 
 **These are Engine built-in Commands. Not all might work.**
