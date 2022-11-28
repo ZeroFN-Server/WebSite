@@ -1,10 +1,9 @@
 ### Site Settings ###
-title               : TFNGames
-description         : Welcome to TFNGames! 
-                      Accounts are temporarily disabled! Read more about it in the news tab.
+title               : ZeroFN
+description         : Welcome to ZeroFN!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : TFNGamesOfficial/TFNGamesOfficial.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : DevniteCreative/yD
+repository          :     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : ZeroFN-Server/zfn-theme
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -18,18 +17,12 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - pages/privacy policy.md
-  - pages/request2.md
-  - pages/docs.html
-  - pages/launchersp.md
-  - pages/support/launcherlds.md
-  - pages/support/errorcodes/TGLE-404-LF.md
 
 
 ### Author Info ###
 author:
-  name              : TFNGames
-  image             : https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png
+  name              : TFN and Pokelevel
+  image             : https://cdn.discordapp.com/icons/1044931830098448385/52cbfd49e641d8c0873159730c71d3e7.webp?size=100
 
 
 ### Posts ###
@@ -40,10 +33,10 @@ permalink: /news/:title
 collections:
   projects:
     output: true
-    permalink: /support/:name
+    permalink: /news/:name
   docs:
     output: true
-    permalink: /support/app/:name
+    permalink: /news/dontuse/:name
 
 
 ### Disqus ###
