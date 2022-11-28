@@ -12,7 +12,7 @@ ZeroFN is finally here! Play events, test weapons and other stuff. Read more!
 
 
 ## **About ZeroFN**
-ZeroFN is a private server for old Fortniter versions (v3.0 - v20.40). You can play Events, use Developer weapons or use [Fortnite Mods](https://discord.gg/fortnite-modding-hub-693478706240421968).
+ZeroFN is a private server for old Fortniter versions (v3.0 - v20.40). You can play Events or use Developer weapons
 
 
 ## **ZeroFN Discord**
