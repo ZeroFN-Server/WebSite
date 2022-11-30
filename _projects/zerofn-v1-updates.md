@@ -8,7 +8,7 @@ image: https://d1lss44hh2trtw.cloudfront.net/assets/article/2019/03/22/fortnite-
 # **ZeroFN version history**
 by TFN#2685
 
-** New Update:** ZeroFN v1.1 is now released! [Jump to v1.1](https://www.zerofn.tk/news/zerofn-v1-updates#zerofn-v1-1)
+** New Update:** ZeroFN v1.1 is now released! [Jump to v1.1](https://www.zerofn.tk/news/zerofn-v1-updates#zerofn-v11)
 
 ## ZeroFN v1.0
 New in this update:
